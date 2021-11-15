@@ -1,4 +1,4 @@
-👋 Hi, I’m Ian Arellano (@Katzuwu) and I am a Career Coach at Codeup
+👋 Hi, I’m Ian Arellano (@Katzuwu) and I am a Student at Codeup
 
 👀 I’m interested in taking a job in the field of web development
 
