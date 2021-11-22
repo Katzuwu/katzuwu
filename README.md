@@ -6,6 +6,6 @@
 
 🌱 I’m currently learning Python 3.10
 
-📫 How to reach me: ian.g.arellano01@gmail.com and [LinkedIn](https://www.linkedin.com/in/ian-arellano-0626b421a/)
+📫 How to reach me: ian.g.arellano01@gmail.com and [LinkedIn](https://www.linkedin.com/in/ian-arellano/)
 
 ⚡ Fun fact: Big into gaming
